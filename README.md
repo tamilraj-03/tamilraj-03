@@ -18,6 +18,9 @@
   <a href="https://github.com/tamilraj-03" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://leetcode.com/u/Tamilraj03/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+  </a>
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=tamilraj-03&label=Profile+Views&color=6366F1&style=flat-square" alt="Profile Views" />
@@ -87,6 +90,7 @@ Enthusiastic **Computer Science & AI student** with hands-on experience in **Ful
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white"/>
   <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
@@ -185,8 +189,8 @@ A responsive and interactive web application for showcasing a technical festival
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamilraj-03&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilraj-03&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tamilraj-03&show_icons=true&theme=tokyonight&count_private=true&hide_border=true&rank_icon=github"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilraj-03&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&exclude_repo=tamilraj-03"/>
 
 </div>
 
@@ -230,6 +234,10 @@ Don't hesitate to reach out!
   &nbsp;
   <a href="https://github.com/tamilraj-03">
     <img src="https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Tamilraj03/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
   </a>
 </p>
 
